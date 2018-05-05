@@ -8,6 +8,8 @@
 -3 sdm susu bubuk/susu kental
 -2 butir telur
 -2 sdt garam
+-tambah oli secukupnya 
+
 ###Topping:
 -Pasir
 -Keju
